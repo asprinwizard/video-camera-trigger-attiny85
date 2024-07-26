@@ -1,1 +1,1 @@
-# video-camera-trigger-attiny85
+# Video Camera Trigger (ATTINY85)
